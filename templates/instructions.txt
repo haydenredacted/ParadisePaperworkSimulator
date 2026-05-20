@@ -7,18 +7,27 @@
 [hr]
 
 [h2]How to Contribute[/h2]If you want to contribute and are not sure how to do something with git or GitHub, please contact me! I may be able to do it for you or help show you how to do it yourself.
-
-Repository on GitHub: https://github.com/Dibasic/SS13PaperworkSimulator/
-Baystation12 Forums thread: https://forums.baystation12.net/threads/paperwork-simulator-2307.6877/
-Baystation12 Wiki resources: https://wiki.baystation12.net/Guide_to_Paperwork, https://wiki.baystation12.net/Example_Paperwork
+[list]
+[*] [b] My Discord:[/b] 
+Haydenredacted
+[*][b]Repository on GitHub:[/b] 
+https://github.com/haydenredacted/ParadisePaperworkSimulator
+[*][b]Baystation12 Wiki resources:[/b] 
+https://wiki.baystation12.net/Guide_to_Paperwork
+https://wiki.baystation12.net/Example_Paperwork
+[*][b]Paradise Station Wiki resources:[/b]
+https://www.paradisestation.org/wiki/Guide_to_Paperwork
+https://www.paradisestation.org/wiki/Example_Paperwork
+[/list]
 
 Want to request a template? Found a bug? Please create an issue on the tracker.
 
 Want to add a template? If the template is your own work and you are willing to license it under Creative Commons, please make a pull request.
 
-[list][h3]How to Add a New Template[/h3][*]Place your templates in the [b]templates[/b] directory in the most relevant folder. The subdirectory you choose is up to you. No good match? Add your own subfolder and put it in there.
+[list][h3]How to Add a New Template[/h3][*]Place your templates in the [b]templates[/b] directory in the most relevant folder. The subdirectory you choose is up to you. If applicable, put it in the relevant server folder. If your server isn't there, feel free to add yours!
 [*]In [b]templates/index.json[/b], find the category your template best fits under, usually the department. If you're adding a set of record skeletons, put them under a group in "Records" with your name instead so that they're grouped with similar templates. Add a new element where it's most appropriate.
 [*]Make sure the new JSON is correct. You can test in Microsoft Edge (doesn't prevent you from accessing local files via AJAX) or just paste the contents into jsonlint.com to validate.
+[*] If you would like to test if your changes on local, make sure you have the code downloaded locally. Then, open up a command line in the repository and run [b]python -m http.server 8080[/b] and then open up [b]localhost:8080[/b] in your web browser.
 [/list]
 
 [hr]
@@ -77,7 +86,7 @@ large - [large]just the opposite[/large]
 
 [center][h2]Replacements - date/time, signatures, fields, logos[/h2][/center]
 
-date
+date <- this may differ from your codebase, Paradise's is 544 years ahead of current year.
 [date]
 
 time
@@ -91,14 +100,21 @@ field - used for forms, a user will be able to write wherever you put this tag. 
 
 images:
 
+[b]Paradise Station images:[/b]
+logo
+[logo]
+
+syndielogo
+[syndielogo]
+
+
+[b]Baystation/Aurorastation/other:[/b]
 solcrest
 [solcrest]
 
 eclogo
 [eclogo]
 
-logo
-[logo]
 
 ntlogo
 [ntlogo]
