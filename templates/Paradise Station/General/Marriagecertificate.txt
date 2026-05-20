@@ -1,0 +1,31 @@
+[center][logo]
+
+[small]Nanotrasen Form CU-513(b)[/small]
+
+[i][large]Certificate of Marriage[/large]
+
+[hr]
+
+This is to Certify
+
+On this day, the [field] of [field], in the year [field],
+
+[field] and [field]
+
+Were United In Matrimony
+
+Aboard the [station][/small] [hr]
+
+[/center]
+
+[field]
+
+[small]Minister
+
+[field]
+
+[small]Witness[/small]
+
+[field]
+
+[small]Witness[/small] 

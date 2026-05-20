@@ -138,6 +138,13 @@
             "Fax from Head of Security - Haydenredacted": "Paradise Station/Command/Headofsecurityfax.txt",
             "Fax from Research Director - Haydenredacted": "Paradise Station/Command/Researchdirectorfax.txt"
         },
+        "General": {
+            "Blank Employment Records": "Paradise Station/General/Blankemploymentrecords.txt",
+            "Blank Medical Records": "Paradise Station/General/Blankmedicalrecords.txt",
+            "Blank Security Records": "Paradise Station/General/Blanksecurityrecords.txt",
+            "D&D 5E Character Sheet": "Paradise Station/General/Dnd5echaractersheet.txt",
+            "Marriage Certificate - SigholtStarsong": "Paradise Station/General/Marriagecertificate.txt"
+        },
         "Head of Personnel": {
             "Job Change Form - Haydenredacted": "Paradise Station/Head of Personnel/Jobchangerequest.txt"
         },

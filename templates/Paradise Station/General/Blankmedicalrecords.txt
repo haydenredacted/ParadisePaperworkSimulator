@@ -1,0 +1,53 @@
+NAME: [surname, forename middlename]
+
+BIRTHDATE: [DD/MM/YYYY]
+
+HEIGHT: [Metres/Centimetres, Feet/Inches]
+
+WEIGHT: [Kilograms, Stone & Pounds]
+
+SPECIES: [Human, Tajaran, Vox, etc.]
+
+RACE/ETHNICITY: [Race, Ethnicity]
+
+EYE COLOR: [Blue, Green, Brown, etc.]
+
+HAIR COLOR: [Colour, do note if the hair is dyed, and note natural hair]
+
+SPOKEN LANGUAGES: [Languages]
+
+PREFERRED LANGUAGE: [Most used language]
+
+NEXT OF KIN: [Name, Relationship (Do note, this is the medical NoK, so will go in order; Mother, Father, Siblings, Children, etc.]
+
+LAST UPDATE: [DD/MM/YYYY]
+
+IMPORTANT INFORMATION
+
+POSTMORTEM INSTRUCTIONS: [How to deal with body- send to family, cremation, etc.]
+
+PROSTHETIC(S): [Yes/No, Information if Yes]
+
+ALLERGIES: [Yes/No, Information if Yes]
+
+SURGICAL HISTORY:
+
+[DD/MM/YYYY] - [Information]
+
+MEDICATION HISTORY:
+
+CURRENT MEDICATIONS/PRESCRIPTIONS:
+
+DOCUMENTED PHYSICAL DISORDERS: [Lung problems, bad knee, etc]
+
+Physical Evaluations: (One is taken out before beginning work onstation. Same applies for psychological eval)
+
+[DD/MM/YYYY] - [Passed/Failed] - [Information]
+
+DOCUMENTED PSYCHOLOGICAL DISORDERS: [PTSD, etc]
+
+Psychological Evaluations:
+
+[DD/MM/YYYY] - [Passed/Failed] - [Information]
+
+MEDICAL DOCTOR'S NOTES: [Same as Hiring Agent, see example for more details] 

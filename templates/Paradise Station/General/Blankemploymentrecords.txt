@@ -1,0 +1,45 @@
+NAME: [surname, forename middlename]
+
+BIRTHDATE: [DD/MM/YYYY]
+
+HEIGHT: [kilograms, pounds]
+
+WEIGHT: [meters/centimeters, feet/inches]
+
+SPECIES: [Human, Vox, etc.]
+
+RACE/ETHNICITY: [Race or ethnicity]
+
+MARITAL STATUS: [Single, Married, Divorced, Widowed, N/A]
+
+SPOKEN LANGUAGES: [Galactic Common, Cygni Standard, etc.]
+
+NEXT OF KIN: [Name, Relationship (This will generally be in order of who they're in contact the most]
+
+LAST UPDATE: [DD/MM/YYYY]
+
+
+History, as provided by the employee, are as follows. They have been verified by employment agents within the External Affairs department, and any comments, questions, or concerns about the legitimacy of such must be sent in a secure document to the same department.
+
+EDUCATION SUMMARY: [Junior and Senior schooling, and College/University]
+
+CURRENT QUALIFICATIONS: [what degree do you got]
+
+CURRENT CERTIFICATIONS: [What positions onstation they are certified to work in. E.g, Security Officer, Surgeon, Command, etc.]
+
+ONGOING TRAINING: [Anything they are currently training in]
+
+EMPLOYMENT HISTORY - Listed below in chronological order, where possible:
+
+[Company Name] [(Start)DD/MM/YYYY] - [(End)DD/MM/YYYY]
+
+- [Basic Work description]
+
+- [Reason for leaving work]
+
+- [Other notes]
+
+[Repeat for multiple jobs]
+
+
+HIRING AGENT NOTES: [Name a random personnel officer from CC and then notes. See example record for more info] 

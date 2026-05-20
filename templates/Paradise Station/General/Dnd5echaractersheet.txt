@@ -1,0 +1,9 @@
+[large][center][b]DnD Character Sheet Page 1 [/large][/center][/b]
+
+[br] [br] Race: [field] [br] Alignment: [field] [br] Background:[field] [br] Class: [field] [br] [br] [br] [large][center]Stats [/large][/center] [br] STR:[field] [br] DEX:[field] [br] CON:[field] [br] INT:[field] [br] WIS:[field] [br] CHR:[field] [br] [center]Saving Throws[/center] [br] STR:[field] [br] DEX:[field] [br] CON:[field] [br] INT:[field] [br] WIS:[field] [br] CHR:[field] [br] [center]SKILLS[/center] [br] Acrobatics[i]DEX[/i][field] [br] Animal Handling[i]WIS[/i][field] [br] Arcana[i]INT[/i][field] [br] Athletics[i]STR[/i][field] [br] Deception[i]CHR[/i][field] [br] History[i]INT[/i][field] [br] Insight[i]WIS[/i][field] [br] Intimidation[i]CHR[/i][field] [br] Investigation[i]INT[/i][field] [br] Medicine[i]WIS[/i][field] [br] Nature[i]INT[/i][field] [br] Perception[i]WIS[/i][field] [br] Performance[i]CHR[/i][field] [br] Persuasion[i]CHR[/i][field] [br] Religion[i]INT[/i][field] [br] Sleight of Hand[i]DEX[/i][field] [br] Stealth[i]DEX[/i][field] [br] Survival[i]WIS[/i][field]
+
+[large][center][b]DnD Character Sheet Page 2 [/large][/center][/b] [br] [br] [large][center]Combat Stats[/large][/center] [br] Armor Class:[field] [br] Intiative:[field] [br] Speed:[field] [br] [br] [large][center]Attacks and Spells[/large][/center]
+
+[large][center][b]DnD Character Sheet Page 3 [/large][/center][/b] [br] [br] [center][b]HP [/center][/b] [br] Current HP: [field] [br] Temporary HP: [field]
+
+[large][center][b]DnD Character Sheet Page 4[/large][/center][/b] [br] [br] [large][center]Equipment[/large][/center] [br] Gold: [field] [br] Worn Equipment:[field] [br] Inventory:[field] 

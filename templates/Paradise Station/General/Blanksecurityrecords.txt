@@ -1,0 +1,64 @@
+FULL NAME: [surname, forename middlename]
+
+BIRTHDATE: [DD/MM/YYYY]
+
+HEIGHT: [Metres/Centimetres, Feet/Inches]
+
+WEIGHT: [Kilograms, Stone & Pounds]
+
+EYE COLOR: [Blue, Green, Brown, etc.]
+
+HAIR COLOR: [Colour, if it is dyed note that and state natural colour]
+
+SPECIES: [Human, Vox, etc.]
+
+RACE/ETHNICITY: [Race, Ethnicity]
+
+PLACE OF RESIDENCE: [Planet, Address (Address should go down to details of street and house number)]
+
+IDENTIFYING FEATURES: [Limp, Accent, Dyed Hair, etc.]
+
+CLOSE KIN: [Name, (Relationship, Place of Residence)] (List multiple if applicable, go in order of most contacted)
+
+SPOKEN LANGUAGES: [Languages]
+
+PREFERRED LANGUAGE: [Their most spoken language]
+
+ON OFFICIAL WATCH: [Yes/No]
+
+KNOWN CRIMINAL ASSOCIATES: [Any friends or family that have severe criminal history]
+
+
+ARREST HISTORY:
+
+[DD/MM/YYYY]: [Charges Pressed]
+
+ADMISSION DATE: [DD/MM/YYYY]
+
+RELEASE DATE: [DD/MM/YYYY]
+
+RELEASE REASON: [Sentence fulfilled, bail, etc.]
+
+NOTES: [Other notes]
+
+[Repeat as needed]
+
+
+THREAT ASSESSMENT
+
+Hostile/Covert Actions Against the Corporation
+
+Threat Level: [Very High/High/Medium/Low/Very Low]
+
+- [Attitude towards NT]
+
+Hostile/Covert Actions Against the Crew
+
+Threat Level: [Very High/High/Medium/Low/Very Low]
+
+- [Attitudes towards other crew]
+
+EMERGENCY CONTACT: [Close Friend or Family, include contact details]
+
+
+OVERALL NOTES: [Note from somebody, refer to example] 
