@@ -132,7 +132,9 @@
         "Command": {
             "Fax from Captain - Haydenredacted": "Paradise Station/Command/Captainfax.txt",
             "Fax from Chief Engineer - Haydenredacted": "Paradise Station/Command/Chiefengineerfax.txt",
+            "Fax from Chief Medical Officer - Haydenredacted": "Paradise Station/Command/Chiefmedicalofficerfax.txt",
             "Fax from Head of Personnel - Haydenredacted": "Paradise Station/Command/Headofpersonnelfax.txt",
+            "Fax from Quartermaster - Haydenredacted": "Paradise Station/Command/Quartermasterfax.txt",
             "Fax from Head of Security - Haydenredacted": "Paradise Station/Command/Headofsecurityfax.txt",
             "Fax from Research Director - Haydenredacted": "Paradise Station/Command/Researchdirectorfax.txt"
         },
