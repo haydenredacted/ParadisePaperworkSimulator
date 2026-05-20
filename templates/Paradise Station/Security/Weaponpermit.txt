@@ -1,0 +1,17 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h3]Weapon Permit Granted by [station]'s Security[/h3][/center][hr]
+I, [b][[field]][/b], the Head of Security/Captain/Magistrate/Warden (now referred to as "Command") upon signing this form grant [b][[field]][/b], the crew member, the ability to carry the weapon described below. Upon signing this form you recognize that it is a [b]privilege[/b] to carry a weapon around the station. Command holds the right to revoke this privilege given at any moment they see fit, whether that be for station safety or misuse of the weapon, or another reason. If said weapon is lost or stolen, you will be held accountable for any use that befalls the station and be responsible for compensation if required.
+
+Weapon Name: [field]
+Reason for Permit: [field]
+Is the weapon contraband (Y/N)? [field]
+
+Upon signing below you agree to the terms of owning a weapon.
+Crew Member's Signature:
+[x] [field]
+
+Captain/Head of Security/Warden's Signature:
+[x] [field]

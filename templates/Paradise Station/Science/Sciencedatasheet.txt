@@ -1,0 +1,6 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h3]Research Director Data Sheet[/h3][center][/center][/center][hr][list][*][b]Decryption Keys[/b][br]1. [u]Message Monitor:[/u] [b][field][/b] [br]2. [u] Research Network:[/u] [b][field][/b][/list][hr]
+[list][*][b]Default AI Lawset: [/b] [u][field][/u][/list][list][*][b]R&D Backup Checklist[/b][br][list][*]35 metal [*]35 cable [*]5 glass[*] R&D console [*]Protolathe board [*]Scientific Analyzer board[*]Circuit Imprinter board[*] Autolathe board [*] Exosuit Fabricator Board[*]Ore Redemption Board [*]7 manipulators[*]9 matter bins[*]3 Lasers[*]1 Scanning Module[*]4 beakers [*]1 Igniter

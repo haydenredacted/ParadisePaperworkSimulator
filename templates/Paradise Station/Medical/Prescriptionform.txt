@@ -1,0 +1,15 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h2] Drug Prescription Form[/h2][/center][hr]
+I, [b][[field]][/b], the [station] Psychologist/Psychiatrist/Therapist have come to the conclusion that my patient, [b][[field]][/b] may be mentally unwell and requires medication in order to properly function aboard the [station].
+
+[b]Patient's name: [[field]]
+Ailments: [[field]]
+Any other notes: [[field]]
+
+Drug Prescription: [[field]]
+Method of Obtaining Above Drugs: [[field]][/b]
+
+[b]Chief Medical Officer/Captain's Signature: [[field]][/b]

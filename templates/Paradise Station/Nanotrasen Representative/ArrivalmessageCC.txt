@@ -1,0 +1,21 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilon Eridani[/center][/i][h3]Arrival Aboard the [station][/h3][/center][hr]
+Greetings Central Command,
+
+I trust this message finds you well. I am writing to inform you that I have safely arrived aboard the [station] and am ready to receive any necessary communication. 
+
+For verification purposes, please ensure any and all communication is both signed by [field] and stamped with the official Nanotrasen Representative's stamp.
+
+[small][i]Take care,[/small][/i]
+[small][i][sign], Nanotrasen Representative of the [station][/i][/small]
+[hr][small][i]*This fax message and any accompanying documents are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you are not the intended recipient or a member of the Central Command or the Command team, any disclosure, reproduction, distribution, or other use of this information is strictly prohibited.
+
+If you have received this message in error, please notify the sender immediately and permanently delete the original and any copies from your system.
+
+This fax is deemed to be falsified unless explicitly stamped with the official Nanotrasen representative's stamp. If this stamp is not present, disregard the contents and take appropriate measures to ensure the security of the Representative and their office.
+
+Death to the Syndicate.
+Glory to Nanotrasen.

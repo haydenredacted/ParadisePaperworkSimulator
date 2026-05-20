@@ -1,0 +1,18 @@
+[table][cell][table][cell][/b][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h2]Change of Job Request Form by
+[sign][/h2][/center][hr][i][center]This form is used to document any job transfers that may occur aboard the [station]. This form, partially or in full, may be used by Command, Security, and in a Nanotrasen Court of Space Law.[/i][hr][/center]
+I, [i][field][/i] (print name here), wish to be transferred from [field] ([i]current position[/i]) to [field] ([i]desired position)[/i].
+
+[b] Reason for Job Change:[/b] [field]
+
+Upon signing this form, I agree that I am of sound mind and can perform my new job's responsibility to the best of my ability. I agree to uphold my new job's Standard Operating Procedure guidelines to the best of my ability and I agree that it is my responsibility to educate myself about the Standard Operating Procedures by reading or asking my coworkers.
+
+Upon the Head of Personnel signing AND stamping this form, they have either recieved verbal or written permission from the Captain/Head of Staff of the corresponding department allowing for the person's name above to transfer positions.
+
+Signature: [field], the [station] Head of Personnel
+
+[i]Death to the Syndicate.
+Glory to Nanotrasen.[/i]

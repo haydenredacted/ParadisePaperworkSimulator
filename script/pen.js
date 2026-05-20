@@ -2,7 +2,7 @@
 /* global loadFile, updateFields */
 'use strict';
 
-var yearmod = 442;
+var yearmod = 544;
 
 $(document).ready(function () {
     hideWarning();
@@ -123,7 +123,7 @@ function processText(str) {
         .replaceAll('[time]', getTimeString())
         .replaceAll('[date]', getDateString())
         .replaceAll('[sign]', '<span class="sig">John Doe</span>')
-        .replaceAll('[station]', 'SCCV Horizon')
+        .replaceAll('[station]', 'NSS Cyberiad')
 
         .replaceAll('[large]', '<span class="large-text">')
         .replaceAll('[/large]', '</span>')
@@ -193,6 +193,11 @@ function processText(str) {
         .replaceAll('[logo_pvpolice]', '<img src = ./img/pvpolicelogo.png>')
         .replaceAll('[logo_pvpolice_small]', '<img src = ./img/pvpolicelogo_small.png>')
         .replaceAll('[barcode]', '<img src = ./img/barcode[rand(0, 3)].png>')
+
+        // paradise sprites
+        .replaceAll('[logo]', '<img src="./img/Paradise/ntlogo.png"')
+        .replaceAll('[syndielogo]', '<img src="./img/Paradise/syndielogo.png"')
+
 
         .replaceAll('[editorbr]', '')
     );

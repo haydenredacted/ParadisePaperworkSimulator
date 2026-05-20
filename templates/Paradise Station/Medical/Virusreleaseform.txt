@@ -1,0 +1,20 @@
+[table][cell][table][cell][/b][center][logo][/center][center]Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h2]Virus Release Form by
+[sign][/h2][small]Non sibi, sed omnibus[/small][/center][hr][b] Name of Virus:[/b] [u][field][/u]
+
+[b]List of Symptoms:[/b]
+[list][*][i][field]
+[*][i][field][/i]
+[*][i][field][/i]
+[*][i][field][/i]
+[*][i][field][/i][/list]
+[b] Method of Spread:[/b] [i][field][/i]
+[b]Cure:[/b] [i][field][/i]
+[b]Notes:[/b] [i][field][/i]
+[hr][/i]Upon signing this form, the [station] Virologist hereby acknowledges that they/it are responsible for any biohazards that begin to spread and any harm inflicted on the crew. Purposely spreading a malicious virus leaves the Virologist to be fired and possible criminal charges be pressed against them.
+
+[b][u]Virologist's Signature: [/b][/u] [field]
+[hr]
+If this virus is up code in accordance to Section 42-901a of the Nanotrasen Pathology Code, please have the Chief Medical Officer stamp below:

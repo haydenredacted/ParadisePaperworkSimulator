@@ -1,0 +1,14 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][small][b]Nanotrasen Form VO-67-A[/b][/small][h2]Vote of No Confidence[/h2][small][i]**This form is to only be used when Command sanctions the vote**[/small][/i][/center][hr]From: [station]'s Nanotrasen Representative's Office[hr]
+[center]The Command Member, [b][[field]][/b] the [[field]] has been accused of being unfit for the position of a Head of Staff due to the following reasons:
+[b][[field]][/b]
+[small][i]This form is automatically invalid if the Command member has committed Murder or Mutiny as that is grounds for IMMEDIATE demotion**[/small][/i][hr]
+[b]Please sign your name next to your appropriate position. Please mark a [i]Y[/i], if you wish to vote Yes, mark an [i]N[/i] if you wish to vote No, and mark an [i]A[/i] if you wish to Abstain. The accused party and anyone who fails to vote will automatically abstain.[/b][hr]
+[table][row][cell][b]Command's Position and Signature[/b] [cell][b]Vote[/b] [row][cell]Captain:[field] [cell][field] [row][cell]Head of Personnel:[field] [cell][field] [row][cell]Head of Security:[field] [cell][field] [row][cell]Chief Medical Officer:[field] [cell][field] [row][cell]Research Director:[field] [cell][field] [row][cell]Chief Engineer:[field] [cell][field] [row][cell]Quartermaster:[field] [cell][field] [/table] [br] [table][row][cell][b]Vote Count[/b] [cell][b]Number of Votes[/b] [row][cell]Yes [cell][field] [row][cell]No [cell][field] [row][cell]Abstain [cell][field] [/table] [br][b]Winning Vote:[/b] [field]
+[b]Signature of 3rd Party (Magistrate/NTR/Captain):[/b] [field]
+[b]Date and Time:[/b] [field]
+[hr][b]This vote is considered illegitimate if not verified by a 3rd Party. Central Command reserves the right to overrule the vote at any time.[/b]
+[small][i]Glory to Nanotrasen.[/small][/i]

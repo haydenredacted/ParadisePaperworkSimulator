@@ -1,0 +1,23 @@
+[table][cell][table][cell][center][logo][b]
+Glory to Nanotrasen
+[station][/b]
+[date], [time]
+[i][center][station], Epsilion Eridani[/center][/i][h1]CEASE AND DESIST NOTICE[/h1][small]**This document should not be used for Moderate and above breakage of Space Law of Standard Operating Procedure**[/center][hr]
+From: [station]'s Nanotrasen Representative's Office
+[hr]
+Dear [b][[field]][/b],
+Upon reading this document you are acknowledging that this is a warning to stop any unlawful or disruptive behavior that you have been witnessed parataking in. These activities may include, MINOR Space Law infractions, MINOR Standard Operating Procedures, or any activity viewed by a Head of Staff that is impeding station efficiency. In order to rectify this notice you must:
+[list][*]Cease the activity.[*]Attempt to repair any damages that have  been incurred[/list]
+[b]The activity that you are being accused of is:[/b] [[field]]
+[b]The person accusing you and their rank is:[/b] [[field]], the [[field]]
+
+We trust that you will heed this warning and cease this behavior. If you do not, you will be liable to be charged for your crime which may include fines, jail time, loss of job, or loss of property in accordance with Space Law.
+
+[i]*Upon signing this form, you are agreeing that everything written in this form is true and correct to the best of your knowledge and ability[/i]
+Signature of the accuser:
+[x] [field]
+
+
+
+[small][i]Death to the Syndicate.
+Glory to Nanotrasen.[/i][/small]

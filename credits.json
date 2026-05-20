@@ -12,6 +12,11 @@
                 "_name": "Climax708",
                 "fab fa-github": "https://github.com/soryy708/",
                 "fas fa-toolbox": "https://forums.baystation12.net/members/climax708.7963/"
+            },
+            {
+                "_name": "Haydenredacted",
+                "fab fa-github": "https://github.com/haydenredacted",
+                "fas fa-toolbox": "https://www.paradisestation.org/forum/profile/14977-haydenredacted/"
             }
         ]
     },
@@ -40,16 +45,17 @@
             "ThatOneGuy",
             "YourDaddy117",
             "Za_Redman",
-            "Lorwp"
+            "Lorwp",
+            "Haydenredacted"
         ]
     },
     {
         "title": "Other Thanks",
         "columns": 1,
         "credits": [
-            "The many players and lore staff who have contributed to the Baystation12 setting and story",
-            "The many players and developers who have contributed to Baystation12 on GitHub",
-            "The many people who have contributed to the Baystation 12 Wiki",
+            "The many players and lore staff who have contributed to the Baystation12 and Paradise Station setting and story",
+            "The many players and developers who have contributed to Baystation12 Paradise Station on GitHub",
+            "The many people who have contributed to the Baystation 12 Wiki and Paradise Station",
             "The many developers of /tg/station, /vg/station, GoonStation and the original Space Station 13",
             "The past and present maintainers of BYOND"
         ]

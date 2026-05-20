@@ -1,126 +1,163 @@
 {
     "Instructions": "instructions.txt",
 
-    "Old Bay": {
-        "General Templates": {
-        "Cover, First Page": "general/cover.txt",
-        "Cover, Last Page": "general/cover_end.txt"
-        },
+    "Baystation": {
+        "Old Bay": {
+            "General Templates": {
+                "Cover, First Page": "Baystation/general/cover.txt",
+                "Cover, Last Page": "Baystation/general/cover_end.txt"
+            },
             "Character Records": {
-                "Public": "records/public.txt",
-                "Employment (Fleet)": "records/employment_fleet.txt",
-                "Medical": "records/medical.txt",
-                "Security": "records/security.txt",
-                "Exploitable": "records/antag.txt",
+                "Public": "Baystation/records/public.txt",
+                "Employment (Fleet)": "Baystation/records/employment_fleet.txt",
+                "Medical": "Baystation/records/medical.txt",
+                "Security": "Baystation/records/security.txt",
+                "Exploitable": "Baystation/records/antag.txt",
                 "Records (SierraKomodo)": {
-                    "Public/Header (Contractor)": "records/sierrakomodo/public_contractor.txt",
-                    "Public/Header (Military)": "records/sierrakomodo/public_military.txt",
-                    "Employment (Contractor)": "records/sierrakomodo/employment_contractor.txt",
-                    "Employment (Military)": "records/sierrakomodo/employment_military.txt",
-                    "Medical (Common)": "records/sierrakomodo/medical.txt",
-                    "Security (Contractor)": "records/sierrakomodo/security_contractor.txt",
-                    "Security (Military)": "records/sierrakomodo/security_military.txt"
+                    "Public/Header (Contractor)": "Baystation/records/sierrakomodo/public_contractor.txt",
+                    "Public/Header (Military)": "Baystation/records/sierrakomodo/public_military.txt",
+                    "Employment (Contractor)": "Baystation/records/sierrakomodo/employment_contractor.txt",
+                    "Employment (Military)": "Baystation/records/sierrakomodo/employment_military.txt",
+                    "Medical (Common)": "Baystation/records/sierrakomodo/medical.txt",
+                    "Security (Contractor)": "Baystation/records/sierrakomodo/security_contractor.txt",
+                    "Security (Military)": "Baystation/records/sierrakomodo/security_military.txt"
                 }
             },
             "Command": {
-                "Access Modification": "command/access_mod.txt",
-                "Crew Job Transfer": "command/crew_transfer.txt",
-                "New Arrival": "command/arrival.txt",
-                "Departmental Audit": "command/department_audit.txt",
-                "Incident Report": "command/incident.txt",
-                "SITREP": "command/sitrep.txt",
-                "General Transmission": "command/transmission.txt",
-                "Visa Issuing Form": "command/visa.txt",
+                "Access Modification": "Baystation/command/access_mod.txt",
+                "Crew Job Transfer": "Baystation/command/crew_transfer.txt",
+                "New Arrival": "Baystation/command/arrival.txt",
+                "Departmental Audit": "Baystation/command/department_audit.txt",
+                "Incident Report": "Baystation/command/incident.txt",
+                "SITREP": "Baystation/command/sitrep.txt",
+                "General Transmission": "Baystation/command/transmission.txt",
+                "Visa Issuing Form": "Baystation/command/visa.txt",
                 "Command (EXO)": {
-                    "Complaint (EXO Personnel)": "command/exo/complaint_exo.txt",
-                    "Complaint (Non-EXO Personnel)": "command/exo/complaint_nexo.txt",
-                    "Memo (Internal)": "command/exo/memo.txt",
-                    "Memo (Inter-department)": "command/exo/memo_ext.txt",
-                    "Payable on Death": "command/exo/pod.txt",
-                    "Sales Agreement": "command/exo/sales.txt",
-                    "Termination": "command/exo/termination.txt",
-                    "Test Subject Waiver": "command/exo/test_subject.txt",
-                    "Test Subject Rejection": "command/exo/test_subject_no.txt",
-                    "Visa Application": "command/exo/visa.txt"
+                    "Complaint (EXO Personnel)": "Baystation/command/exo/complaint_exo.txt",
+                    "Complaint (Non-EXO Personnel)": "Baystation/command/exo/complaint_nexo.txt",
+                    "Memo (Internal)": "Baystation/command/exo/memo.txt",
+                    "Memo (Inter-department)": "Baystation/command/exo/memo_ext.txt",
+                    "Payable on Death": "Baystation/command/exo/pod.txt",
+                    "Sales Agreement": "Baystation/command/exo/sales.txt",
+                    "Termination": "Baystation/command/exo/termination.txt",
+                    "Test Subject Waiver": "Baystation/command/exo/test_subject.txt",
+                    "Test Subject Rejection": "Baystation/command/exo/test_subject_no.txt",
+                    "Visa Application": "Baystation/command/exo/visa.txt"
                 }
             },
             "Engineering": {
-                "Area Inspection": "engineering/compliance.txt"
+                "Area Inspection": "Baystation/engineering/compliance.txt"
             },
             "Exploration": {
-                "Away Team Manifest": "exploration/away_manifest.txt",
-                "Exoplanet Report": "exploration/exoplanet.txt",
-                "Fauna Report": "exploration/fauna.txt",
-                "Preflight Checklist": "exploration/uf301a_preflight.txt"
+                "Away Team Manifest": "Baystation/exploration/away_manifest.txt",
+                "Exoplanet Report": "Baystation/exploration/exoplanet.txt",
+                "Fauna Report": "Baystation/exploration/fauna.txt",
+                "Preflight Checklist": "Baystation/exploration/uf301a_preflight.txt"
             },
             "Medical": {
-                "Autopsy Report": "medical/autopsy.txt",
-                "Autopsy Report (Alternate)": "medical/autopsy2.txt",
-                "Cyborgification Waiver": "medical/cyborgification.txt",
-                "Blood Donation": "medical/blood_donation.txt",
-                "Prescription": "medical/prescription.txt",
-                "Discharge": "medical/discharge.txt"
+                "Autopsy Report": "Baystation/medical/autopsy.txt",
+                "Autopsy Report (Alternate)": "Baystation/medical/autopsy2.txt",
+                "Cyborgification Waiver": "Baystation/medical/cyborgification.txt",
+                "Blood Donation": "Baystation/medical/blood_donation.txt",
+                "Prescription": "Baystation/medical/prescription.txt",
+                "Discharge": "Baystation/medical/discharge.txt"
             },
             "Research": {
-                "Anomaly Report": "research/anomaly.txt",
-                "Xenoflora Report": "research/xenoflora.txt"
+                "Anomaly Report": "Baystation/research/anomaly.txt",
+                "Xenoflora Report": "Baystation/research/xenoflora.txt"
             },
             "Security": {
-                "Arrest Report": "security/arrest_report.txt",
-                "Hot Sheet": "security/hot_sheet.txt",
-                "Incident Report": "security/incident_report.txt",
-                "Patrol Assignment": "security/patrol_assignment.txt",
-                "Patrol Assignment (Alternate)": "security/patrol_assignment2.txt",
-                "POI Watchlist": "security/personnel_watchlist.txt",
-                "POI Watchlist (Alternate)": "security/personnel_watchlist2.txt",
-                "SECARM Inventory": "security/secarm_inventory.txt",
-                "Shift Report": "security/shift_report.txt"
+                "Arrest Report": "Baystation/security/arrest_report.txt",
+                "Hot Sheet": "Baystation/security/hot_sheet.txt",
+                "Incident Report": "Baystation/security/incident_report.txt",
+                "Patrol Assignment": "Baystation/security/patrol_assignment.txt",
+                "Patrol Assignment (Alternate)": "Baystation/security/patrol_assignment2.txt",
+                "POI Watchlist": "Baystation/security/personnel_watchlist.txt",
+                "POI Watchlist (Alternate)": "Baystation/security/personnel_watchlist2.txt",
+                "SECARM Inventory": "Baystation/security/secarm_inventory.txt",
+                "Shift Report": "Baystation/security/shift_report.txt"
             },
             "Supply": {
-                "Docked Vessel": "supply/docked_vessel.txt",
-                "Special Requisition/Command Supply": "supply/uf102b_requisition_special.txt"
+                "Docked Vessel": "Baystation/supply/docked_vessel.txt",
+                "Special Requisition/Command Supply": "Baystation/supply/uf102b_requisition_special.txt"
             },
             "Service": {
-                "Kosher Certificate": "service/kosher.txt"
+                "Kosher Certificate": "Baystation/service/kosher.txt"
             },
             "Admin": {
-                "EXCOM Automated Reply": "admin/excom_autoreply.txt",
-                "EXO Automated Reply": "admin/exo_autoreply.txt"
+                "EXCOM Automated Reply": "Baystation/admin/excom_autoreply.txt",
+                "EXO Automated Reply": "Baystation/admin/exo_autoreply.txt"
             },
             "CM-SS13": {
-                "W-Y Company Fax": "cm/companyfax.txt",
-                "High Command Fax": "cm/commandfax.txt"
+                "W-Y Company Fax": "Baystation/cm/companyfax.txt",
+                "High Command Fax": "Baystation/cm/commandfax.txt"
             }
+        },
+        "Personal": {
+            "Business card": "Baystation/Personal/Businesscard.txt",
+            "Kath's card": "Baystation/Personal/KathCard.txt"
+        },
+        "Security": {
+            "Front report": "Baystation/Personal/Security/Front_report.txt",
+            "Investigation report": "Baystation/Personal/Security/Investigation_report.txt",
+            "Training: Forensic Equipment": "Baystation/Personal/Security/Training_forensic_equipment.txt",
+            "Training: Forensic Procedure": "Baystation/Personal/Security/Training_forensic_procedure.txt",
+            "Training: Forensic Live": "Baystation/Personal/Security/Training_forensic_live",
+            "Training: Forensic Exam": "Baystation/Personal/Security/Training_forensic_exam.txt"
+        },
+        "Service": {
+            "Menu 1": "Baystation/Personal/Service/Menu_1.txt",
+            "Menu 2": "Baystation/Personal/Service/Menu_2.txt"
+        },
+        "Idris Investigation": {
+            "Investigation front page": "Baystation/Personal/Idris_Investigation/Idris_front_page.txt",
+            "Interview notes": "Baystation/Personal/Idris_Investigation/Interview_notes.txt",
+            "Scene notes": "Baystation/Personal/Idris_Investigation/Scene_notes.txt",
+            "Interview guide 1": "Baystation/Personal/Idris_Investigation/Interview_guide_1.txt",
+            "Interview guide 2": "Baystation/Personal/Idris_Investigation/Interview_guide_3.txt",
+            "Interview guide 3": "Baystation/Personal/Idris_Investigation/Interview_guide_3.txt"
+        },
+        "Command & other": {
+            "Front page": "Baystation/Personal/Frontpage.txt",
+            "Back page": "Baystation/Personal/Backpage.txt",
+            "Problem resolution form": "Baystation/Personal/Problemresolutionform.txt",
+            "Sales agreement": "Baystation/Personal/Salesagreement.txt",
+            "NDA": "Baystation/Personal/NDA.txt"
+        }
     },
-    "Personal": {
-        "Business card": "Personal/Businesscard.txt",
-        "Kath's card": "Personal/KathCard.txt"
-    },
-    "Security": {
-        "Front report": "Personal/Security/Front_report.txt",
-        "Investigation report": "Personal/Security/Investigation_report.txt",
-        "Training: Forensic Equipment": "Personal/Security/Training_forensic_equipment.txt",
-        "Training: Forensic Procedure": "Personal/Security/Training_forensic_procedure.txt",
-        "Training: Forensic Live": "Personal/Security/Training_forensic_live",
-        "Training: Forensic Exam": "Personal/Security/Training_forensic_exam.txt"
-    },
-    "Service": {
-        "Menu 1": "Personal/Service/Menu_1.txt",
-        "Menu 2": "Personal/Service/Menu_2.txt"
-    },
-    "Idris Investigation": {
-        "Investigation front page": "Personal/Idris_Investigation/Idris_front_page.txt",
-        "Interview notes": "Personal/Idris_Investigation/Interview_notes.txt",
-        "Scene notes": "Personal/Idris_Investigation/Scene_notes.txt",
-        "Interview guide 1": "Personal/Idris_Investigation/Interview_guide_1.txt",
-        "Interview guide 2": "Personal/Idris_Investigation/Interview_guide_3.txt",
-        "Interview guide 3": "Personal/Idris_Investigation/Interview_guide_3.txt"
-    },
-    "Command & other": {
-                "Front page": "Personal/Frontpage.txt",
-        "Back page": "Personal/Backpage.txt",
-        "Problem resolution form": "Personal/Problemresolutionform.txt",
-        "Sales agreement": "Personal/Salesagreement.txt",
-        "NDA": "Personal/NDA.txt"
+    "Paradise Station": {
+        "Central Command/Administrative": {
+            "Fax From Syndicate Officer - Haydenredacted": "Paradise Station/Admin/Syndicateofficerfax.txt"
+        },
+        "Command": {
+            "Fax from Captain - Haydenredacted": "Paradise Station/Command/Captainfax.txt",
+            "Fax from Chief Engineer - Haydenredacted": "Paradise Station/Command/Chiefengineerfax.txt",
+            "Fax from Head of Personnel - Haydenredacted": "Paradise Station/Command/Headofpersonnelfax.txt",
+            "Fax from Head of Security - Haydenredacted": "Paradise Station/Command/Headofsecurityfax.txt",
+            "Fax from Research Director - Haydenredacted": "Paradise Station/Command/Researchdirectorfax.txt"
+        },
+        "Head of Personnel": {
+            "Job Change Form - Haydenredacted": "Paradise Station/Head of Personnel/Jobchangerequest.txt"
+        },
+        "Medical": {
+            "Autopsy Report - Haydenredacted": "Paradise Station/Medical/Autopsyreport.txt",
+            "Prescription Form - Haydenredacated": "Paradise Station/Medical/Prescriptionform.txt",
+            "Virus Release Form - Haydenredacted": "Paradise Station/Medical/Virusreleaseform.txt"
+        },
+        "Nanotrasen Representative": {
+            "Arrival Message to Central Command - Haydenredacted": "Paradise Station/Nanotrasen Representative/ArrivalmessageCC.txt",
+            "Arrival Message to Command - Haydenredacted": "Paradise Station/Nanotrasen Representative/ArrivalmessageCommand.txt",
+            "Cease and Desist - Haydenredacted": "Paradise Station/Nanotrasen Representative/Ceaseanddesist.txt",
+            "Fax from Nanotrasen Representative - Haydenredacted": "Paradise Station/Nanotrasen Representative/NTRfax.txt",
+            "VoNC from Command - Haydenredacted": "Paradise Station/Nanotrasen Representative/VoNCfromCommand.txt",
+            "VoNC from Crew - Haydenredacted": "Paradise Station/Nanotrasen Representative/VoNCfromCrew.txt"
+        },
+        "Science": {
+            "Research Director Data Sheet - Haydenredacted": "Paradise Station/Science/Sciencedatasheet.txt",
+            "Genetics Gene Sheet - Haydenredacted": "Paradise Station/Science/Genesheet.txt"
+        },
+        "Security": {
+            "Weapon Permit - Haydenredacted": "Paradise Station/Security/Weaponpermit.txt"
+        }
     }
 }
