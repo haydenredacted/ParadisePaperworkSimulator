@@ -1,0 +1,37 @@
+[center][logo][/center]
+
+[br]
+
+[center][h3][station][br][br]Department Audit[/h3][/center]
+
+[hr]
+
+[b]Date:[/b] [date]
+
+[br]
+
+[b]Time:[/b] [field]
+
+[br]
+
+[b]Name of Department:[/b] [field]
+
+[br]
+
+[b]Positive Observations:[/b] [field]
+
+[br]
+
+[b]Negative Observations:[/b] [field]
+
+[br]
+
+[b]Other Notes:[/b] [field]
+
+[br]
+
+[b]Signature:[/b] [field]
+
+[br]
+
+Note: Document not valid unless stamped 

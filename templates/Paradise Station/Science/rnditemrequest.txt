@@ -1,0 +1,35 @@
+[center][logo][/center]
+
+[center][h1]High Risk RnD Item Request Form[/h1][/center]
+
+[hr]
+
+[center][h3]Applicant Information[/h3][/center]
+
+[b]Applicant Name:[/b] [field][br]
+
+[b]Applicant Job:[/b] [field][br]
+
+[b]Applicant Signature:[/b] [field][br][br]
+
+[hr][br]
+
+[center][h3]Research Director's Approval[/h3][/center]
+
+[b]Research Director's Name:[/b] [field][br]
+
+[b]Research Director's Signature:[/b] [field][br]
+
+[b]Approved?:[/b] [field][br][br]
+
+[hr]
+
+[h3][center]High Risk Items[/center][/h3]
+
+[b]High Risk Items:[/b] [field][br]
+
+[b]Reason:[/b] [field][br][br]
+
+[hr][br]
+
+[small]Research Director's stamp here:[/small] 

@@ -1,0 +1,27 @@
+[center][logo][/center]
+
+[center][h1]Combat Implant Approval Form[/h1][/center]
+
+[hr]
+
+[center][h3]Applicant Information[/h3][/center]
+
+[b]Applicant Name:[/b] [field][br]
+
+[b]Applicant Job:[/b] [field][br]
+
+[b]Applicant Signature:[/b] [field][br][br]
+
+[hr][br]
+
+[center][h3]Head of Security Approval[/h3][/center]
+
+[b]Head of Security's Name:[/b] [field][br]
+
+[b]Head of Security's Signature:[/b] [field][br]
+
+[b]Approved?:[/b] [field][br][br]
+
+[hr][br]
+
+[small]Head of Security's stamp here:[/small][br] 

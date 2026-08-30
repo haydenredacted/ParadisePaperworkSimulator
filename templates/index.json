@@ -163,10 +163,15 @@
         },
         "Science": {
             "Research Director Data Sheet - Haydenredacted": "Paradise Station/Science/Sciencedatasheet.txt",
-            "Genetics Gene Sheet - Haydenredacted": "Paradise Station/Science/Genesheet.txt"
+            "Genetics Gene Sheet - Haydenredacted": "Paradise Station/Science/Genesheet.txt",
+            "High-Risk RnD Item Request - Wenlock_The_British_Hobo": "Paradise Station/Science/rnditemrequest.txt"
         },
         "Security": {
-            "Weapon Permit - Haydenredacted": "Paradise Station/Security/Weaponpermit.txt"
+            "Weapon Permit - Haydenredacted": "Paradise Station/Security/Weaponpermit.txt",
+            "Combat Implant Approval - Wenlock_The_British_Hobo": "Paradise Station/Security/Combatimplantapproval.txt",
+            "C Class Contraband Permit - Wenlock_The_British_Hobo": "Paradise Station/Security/Cclasscontrabandpermit.txt",
+            "SOP Violation - Wenlock_The_British_Hobo": "Paradise Station/Security/SOPviolation.txt",
+            "Internal Affairs Form: Department Audit - Wenlock_The_British_Hobo": "Paradise Station/Security/Internalaffairsdepartmentaudit.txt"
         }
     }
 }

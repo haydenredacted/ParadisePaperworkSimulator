@@ -1,0 +1,33 @@
+[center][logo][/center]
+
+[center][h1]C-Class Contraband Permit Approval Form[/h1][/center]
+
+[hr]
+
+[center][h3]Applicant Information[/h3][/center]
+
+[b]Applicant Name:[/b] [field][br]
+
+[b]Applicant Job:[/b] [field][br]
+
+[b]Applicant Signature:[/b] [field][br][br]
+
+[hr][br]
+
+[center][h3]Head of Security/Magistrate Approval[/h3][/center]
+
+[b]Head of Security's/Magistrate's Name:[/b] [field][br]
+
+[b]Head of Security's/Magistrate's Signature:[/b] [field][br]
+
+[b]Approved?:[/b] [field][br][br]
+
+[hr]
+
+[h3][center]Contraband[/center][/h3]
+
+[b]C Class Contraband:[/b] [field][br]
+
+[b]Reason:[/b] [field][br][br] [hr][br]
+
+[small]Head of Security's/Magistrate's stamp here:[/small] 
