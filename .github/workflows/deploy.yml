@@ -1,7 +1,7 @@
 name: Deploy
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 concurrency:
@@ -12,7 +12,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy over SSH
+      - name: Deployment
         env:
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
