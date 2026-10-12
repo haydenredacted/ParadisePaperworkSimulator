@@ -172,6 +172,9 @@
             "C Class Contraband Permit - Wenlock_The_British_Hobo": "Paradise Station/Security/Cclasscontrabandpermit.txt",
             "SOP Violation - Wenlock_The_British_Hobo": "Paradise Station/Security/SOPviolation.txt",
             "Internal Affairs Form: Department Audit - Wenlock_The_British_Hobo": "Paradise Station/Security/Internalaffairsdepartmentaudit.txt"
+        },
+        "Syndicate": {
+            "Fax from Syndicate Researcher - Haydenredacted": "Paradise Station/Syndicate/SyndicateResearcherFax.txt"
         }
     }
 }
