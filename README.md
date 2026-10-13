@@ -15,7 +15,7 @@ Place your templates in the `templates` directory in the most relevant folder. I
 - Make sure the new JSON is correct. You can test in Microsoft Edge (doesn't prevent you from accessing local files via AJAX) or just paste the contents into jsonlint.com to validate.
 - Place your template in a `.txt` file in a directory inside `templates/`, then add its name and path to `templates/index.json`. 
 - If you would like to test if your changes on local, make sure you have the code downloaded locally. If you have Python installed, open up a command line in the repository and run <b>python -m http.server 8080</b> and then open up <b>[localhost:8080](localhost:8080)</b> in your web browser.
-- Submit via pull request and check here for requested changes until it is merged. When submitting your work, you may add your name or ckey to `credits.json`.
+- Submit via pull request and check here for requested changes until it is merged. When submitting your work, you may add your name or ckey to `credits.json`. <b> Make sure you are submitting a pull request to THIS REPO, not upstream</b>
 
 # Contribution
 Please feel free to submit your own work if you are willing to have it available under CC BY-NC-SA 3.0.
