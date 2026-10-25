@@ -2,14 +2,14 @@
 Glory to Nanotrasen
 [station][/b]
 [date], [time]
-[i][center][station], Epsilion Eridani[/center][/i][h2]Autopsy Report by 
+[i][center][station], Epsilon Eridani[/center][/i][h2]Autopsy Report by 
 [sign][/h2][small] Vivamus moriendum est[/small][/center][hr][i][center]This form is used to document any corpses that may come into the [station] Morgue. This form, partially or in full, may be used by Command, Security, and in a Nanotrasen Court of Space Law.[/i][hr][/center]
 [u][b]Information of the Deceased:[/b][/u]
 [b][i]Name:[/b][/i] [field]
+[b][i]Species:[/b][/i] [field]
 [b][i]Occupation:[/b][/i] [field]
 [b][i]Time of Death:[/b][/i] [field]
-[b][i]Status of Body (Cloned, Borged, DNR, Unresponsive):[/b][/i] [field]
-
+[b][i]Status of Body (Cloned, Borged, DNR, Unresponsive):[/b][/i] [field][hr]
 [b][i] Damage Summary:[/b][/i] 
 (SUFF): [field]
 (TOX): [field]
@@ -17,8 +17,7 @@ Glory to Nanotrasen
 (BRUTE): [field]
 [b][i] Blood Level: [/b][/i] [field] %
 [b][i] Missing Body Parts: [/b][/i] [field]
-[b][i] Bio-chips: [/b][/i] [field]
-
+[b][i] Bio-chips: [/b][/i] [field][hr]
 [b][i] Summary of Injuries: [/b][/i] [field]
 [b][i] Cause of Death: [/b][/i] [field]
 [b][i] Narrative: [/b][/i] [field][hr]
