@@ -12,9 +12,6 @@
 Haydenredacted
 [*][b]Repository on GitHub:[/b] 
 https://github.com/haydenredacted/ParadisePaperworkSimulator
-[*][b]Baystation12 Wiki resources:[/b] 
-https://wiki.baystation12.net/Guide_to_Paperwork
-https://wiki.baystation12.net/Example_Paperwork
 [*][b]Paradise Station Wiki resources:[/b]
 https://www.paradisestation.org/wiki/Guide_to_Paperwork
 https://www.paradisestation.org/wiki/Example_Paperwork

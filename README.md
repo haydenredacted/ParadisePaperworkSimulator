@@ -7,9 +7,7 @@ Renders SS13 (Baystation12/Paradise Station) pencode into HTML.
 
 It aims to replicate the same process the game uses to render pencode, so whatever you see in the output will look similar to the same pencode rendered on paper ingame.
 
-Hosted on GitHub Pages at [https://haydenredacted.github.io/ParadisePaperworkSimulator/](https://haydenredacted.github.io/ParadisePaperworkSimulator/)  
-Baystation12 Forums thread: [Paperwork Simulator 2307](https://forums.baystation12.net/threads/paperwork-simulator-2307.6877/)  
-Baystation12 Wiki resources: [Guide to Paperwork](https://wiki.baystation12.net/Guide_to_Paperwork), [Example Paperwork](https://wiki.baystation12.net/Example_Paperwork)
+Hosted at [https://ss13.haydenredacted.com/paperwork-simulator/](https://ss13.haydenredacted.com/paperwork-simulator/)  
 
 # Contribution
 Please feel free to submit your own work if you are willing to have it available under CC BY-NC-SA 3.0.
